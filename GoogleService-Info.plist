@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>856859093776-np9lmlgh0tgdaelpvo34mvm1ss6qmjuv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.856859093776-np9lmlgh0tgdaelpvo34mvm1ss6qmjuv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>856859093776-1lcrdqmsvdl49qp9bq08ahhbharm2e35.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCvSynLA3MkVQmp1UWkezQPw35gtWsSWIQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>856859093776</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.reactnativefirebase</string>
+	<key>PROJECT_ID</key>
+	<string>formm-acb1c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>formm-acb1c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:856859093776:ios:36dfb9da2aa79696175395</string>
+	<key>DATABASE_URL</key>
+	<string>https://formm-acb1c-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
